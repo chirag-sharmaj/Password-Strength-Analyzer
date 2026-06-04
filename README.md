@@ -1,15 +1,26 @@
 # Password Strength Analyzer
 
-A Python project that evaluates password strength based on:
+## Description
+Password Strength Analyzer is a Python-based tool that evaluates the strength of a user-entered password. It checks password length, character diversity, and complexity to classify passwords as Weak, Medium, or Strong.
 
-- Length
-- Uppercase letters
-- Lowercase letters
-- Numbers
-- Special characters
+## Features
+- Password length validation
+- Uppercase letter detection
+- Lowercase letter detection
+- Number detection
+- Special character detection
+- Password strength classification
+- Strong password suggestions
 
-It also suggests a stronger password if the entered password is weak.
+## Technologies Used
+- Python 3
+- Regular Expressions (re)
+- Random Module
+- String Module
 
 ## How to Run
 
+```bash
+
 python password_analyzer.py
+<img width="1901" height="884" alt="image" src="https://github.com/user-attachments/assets/2515f546-2416-4fa1-8ca4-f1811f80c6e7" />
